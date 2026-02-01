@@ -12,6 +12,9 @@
 
 <style scoped>
     .button {
+        display: flex;
+        gap: 9px;
+        align-items: center;
         padding: 14px;
         border: none;
         border-radius: 10px;

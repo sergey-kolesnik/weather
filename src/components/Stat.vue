@@ -23,12 +23,11 @@ const { label, stat } = defineProps({
         font-size: 28px;
         gap:16px;
     }
-
     .stat-name {
         font-weight: 700;
+        text-transform: uppercase;
 
     }
-
     .stat-value {
         font-weight: 500;
     }
